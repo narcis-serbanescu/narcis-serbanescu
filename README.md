@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @narcis-serbanescu
 - 👀 I’m interested in DevSecOps, RHEL, Python
 - 🌱 I’m currently learning RedHat Openshift Container Platform and Kubernetes
-- 💞️ I’m looking to collaborate on ... any above.
+- 💞️ I’m looking to collaborate on ... Linux, Python.
 - 📫 How to reach me: narcis.serbanescu@gmail.com
 
 <!---
